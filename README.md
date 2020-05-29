@@ -4,12 +4,6 @@ The Sign Language app is an Android application which can translate static ASL a
 * https://github.com/Mquinn960/offline-trainer
 * https://github.com/Mquinn960/dataset-creator
 
-The current beta version of this app can be tested here:
-* https://play.google.com/store/apps/details?id=mquinn.sign_language
-
-**(Click the image below to watch the video demo)**
-[![Alt text](/Preview.png?raw=true "Preview")](https://youtu.be/8Ta_CMhd454)
-
 ## For a comprehensive step by step guide on using these applications and some additional info on how they work, please see [my new help repo](https://github.com/Mquinn960/sign-language-help)
 
 ## Getting Started
